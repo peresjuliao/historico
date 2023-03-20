@@ -1,0 +1,19 @@
+{
+  "historico": [
+    { "id": 1, "data": "2023-01-15", "descricao": "Compra de tênis", "valor": 99.9 },
+    { "id": 2, "data": "2023-01-18", "descricao": "Compra de camiseta", "valor": 45.0 },
+    { "id": 3, "data": "2023-01-20", "descricao": "Compra de mochila", "valor": 120.0 },
+    { "id": 4, "data": "2023-01-25", "descricao": "Compra de calça", "valor": 79.9 },
+    { "id": 5, "data": "2023-02-02", "descricao": "Compra de boné", "valor": 30.0 },
+    { "id": 6, "data": "2023-02-08", "descricao": "Compra de jaqueta", "valor": 180.0 },
+    { "id": 7, "data": "2023-02-10", "descricao": "Compra de meias", "valor": 15.0 },
+    { "id": 8, "data": "2023-02-12", "descricao": "Compra de relógio", "valor": 250.0 },
+    { "id": 9, "data": "2023-02-20", "descricao": "Compra de óculos de sol", "valor": 89.9 },
+    { "id": 10, "data": "2023-02-22", "descricao": "Compra de pulseira", "valor": 60.0 },
+    { "id": 11, "data": "2023-02-25", "descricao": "Compra de celular", "valor": 1500.0 },
+    { "id": 12, "data": "2023-03-01", "descricao": "Compra de fone de ouvido", "valor": 200.0 },
+    { "id": 13, "data": "2023-03-10", "descricao": "Compra de tablet", "valor": 850.0 },
+    { "id": 14, "data": "2023-03-15", "descricao": "Compra de teclado", "valor": 120.0 },
+    { "id": 15, "data": "2023-03-18", "descricao": "Compra de mouse", "valor": 80.0 }
+  ]
+}
